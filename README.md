@@ -54,7 +54,7 @@ This project demonstrates how **machine learning + classical forecasting** can p
 ---
 
 ## 📂 Project Structure  
-├── data/ # Raw and processed sales data
-├── notebooks/ # Jupyter notebooks with analysis & modeling
-├── forecasts/ # Output Excel files (daily & monthly forecasts)
-├── README.md # Project documentation
+- data/ # Raw and processed sales data
+- notebooks/ # Jupyter notebooks with analysis & modeling
+- forecasts/ # Output Excel files (daily & monthly forecasts)
+- README.md # Project documentation
