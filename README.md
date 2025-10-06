@@ -1,18 +1,18 @@
 # Sales-Forecasting
 
-# 📈 Machine Learning Sales Forecasting for Inventory Planning
+# Machine Learning Sales Forecasting for Inventory Planning
 
 ## Overview  
 This project leverages **historical daily sales data (2020–2025)** to build a **365-day sales forecast**.  
 The main objective is to support **inventory and purchasing planning**, ensuring the client orders the right amount of goods at the right time.  
 
 The analysis highlights two key patterns in the data:  
-- 📈 A **strong upward growth trend** in sales.  
-- 🎄 A **clear seasonal spike** during the **November/December holiday period**.  
+- A **strong upward growth trend** in sales.  
+- A **clear seasonal spike** during the **November/December holiday period**.  
 
 ---
 
-## 🔑 Key Deliverables & Analysis  
+## Key Deliverables & Analysis  
 
 ### 1. Exploratory Data Analysis (EDA)  
 - Time series plots to visualize long-term growth.  
@@ -45,7 +45,7 @@ The analysis highlights two key patterns in the data:
 
 ---
 
-## 🚀 Business Value  
+## Business Value  
 This project demonstrates how **machine learning + classical forecasting** can provide **actionable insights for real-world inventory management**, helping businesses:  
 - Anticipate demand.  
 - Reduce overstock/stockouts.  
@@ -53,7 +53,7 @@ This project demonstrates how **machine learning + classical forecasting** can p
 
 ---
 
-## 📂 Project Structure  
+## Project Structure  
 - data/ # Raw and processed sales data
 - notebooks/ # Jupyter notebooks with analysis & modeling
 - forecasts/ # Output Excel files (daily & monthly forecasts)
