@@ -34,7 +34,7 @@ The analysis highlights two key patterns in the data:
 
 ---
 
-## 🛠 Tools & Libraries  
+## Tools & Libraries  
 
 - **Python**  
 - **Pandas** → data cleaning & preparation  
